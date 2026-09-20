@@ -1,0 +1,9 @@
+*{
+    background-color: lightblue;
+}
+container{
+    background-color: aquamarine;
+    display: inline;
+    margin: 10px;
+    padding: 10px;
+}
